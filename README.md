@@ -1,5 +1,4 @@
 # titanicc
-
 ## Repository destined to the Data Science activity 
 
 It contains:
